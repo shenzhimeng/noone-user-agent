@@ -15,7 +15,7 @@ console.log(nooneUA());
 ## In the real world ^o^
 
 ```javascript
-const nooneUA = require('fake-useragent');
+const nooneUA = require('noone-user-agent');
 const request = require('request');
 
 var url = 'https://www.google.com.vn/search?safe=off&hl=en&q=hello';
